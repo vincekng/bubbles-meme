@@ -13,6 +13,7 @@
 
 [https://bitbucket.org/Unity-Technologies/unitytesttools/wiki/IntegrationTestsRunner](https://bitbucket.org/Unity-Technologies/unitytesttools/wiki/IntegrationTestsRunner)
 
+Write a few more comparers?
 
 
 # Part 2 - Enhancements
