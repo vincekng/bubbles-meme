@@ -25,6 +25,8 @@ To work on the project:
 
 # Part 1 - 3D Cursor
 
+[https://bitbucket.org/Unity-Technologies/unitytesttools/wiki/IntegrationTestsRunner](https://bitbucket.org/Unity-Technologies/unitytesttools/wiki/IntegrationTestsRunner)
+
 If you’ve tried AltspaceVR, you’ll have noticed that our user interface uses a 3D cursor. This cursor approach allows the user to select objects in the scene, or interact with 2D web panels. For this part of the project, you’ll be implementing a variant of the 3D cursor algorithm we’ve developed for AltspaceVR. You can find an example build showing the expected behavior in the `Builds` folder of the repo.
 
 The example project has most everything you need **except** for the logic to drive the cursor off of the mouse, and the shader for the cursor. The script you will need to implement is the `SphericalCursorModule.cs` script that is on the `Main Camera` under the `First Person Controller`.
