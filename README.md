@@ -1,5 +1,7 @@
 # AltspaceVR Engineering Project - Unity Testing
 
+#TODO COMPLETE
+
 ## Instructions
 
 Finish the implementation of the 3D cursor in an example Unity application, and then build some enhancements using the cursor.
