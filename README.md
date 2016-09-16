@@ -41,7 +41,7 @@ Please write up a one page overview of what a cohesive testing strategy would lo
 
 In your repo, you should clobber this README file with your testing strategy. Any instructions or known issues should be documented in the README as well. If you use any code that was not included in the project or written by yourself, please note it here.
 
-E-mail us a link to your Github repo to `projects@altvr.com`. Please include your contact information, and if you haven't submitted it to us already, your resume and cover letter. 
+Email us a link to your Github repo to `projects@altvr.com`. Please include your contact information, and if you haven't submitted it to us already, your resume and cover letter. 
 
 We hope you have fun working on the project, and we're excited to see what you come up with!
     
