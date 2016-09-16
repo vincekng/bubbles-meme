@@ -24,7 +24,7 @@ Please build tests that verify the following aspect of the game
 
 - A tank receives damage when hit by a shell
 - The frame-rate of the game does not drop below 60 FPS for more than 100 milliseconds at a time
-- Both tanks are constantly visible during 10 seconds of random movement
+- Both tanks are constantly visible during 10 seconds of random movement input
 
 # Part 2 - Testing Strategy
 
