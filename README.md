@@ -4,7 +4,7 @@
 
 This project involves adding a few different integration tests to a simple Unity game, and writing up a hypothetical testing strategy for the game as it develops into a larger product.
 
-Our client at AltspaceVR is written in Unity and shares many architectual qualities with video games. 
+Our client at AltspaceVR is written in Unity and shares many architectural qualities with video games. 
 
 The repo is a combination of
 - A [Unity example game](https://www.assetstore.unity3d.com/en/#!/content/46209)
@@ -33,9 +33,9 @@ Please build tests that verify the following aspect of the game
 
 # Part 2 - Testing Strategy
 
-Consider that this tank game is going to be hypothetically built out into a competitive online PC video game. There will be a large number of different tanks and weapons, and the game will recieve continuous updates to improve balance and add new features. The team will have 20 people on the project in various roles. 
+Consider that this tank game is going to be hypothetically built out into a competitive online PC video game. There will be a large number of different tanks and weapons, and the game will receive continuous updates to improve balance and add new features. The team will have 20 people on the project in various roles. 
 
-Please write up a one page overview of what a cohesive testing strategy would look like that would allow for continuous depolyment while minimizing downtime and bugs that negatively impacted the experience for players. This should include reccomendations from both a techical and a process perspecitive. 
+Please write up a one page overview of what a cohesive testing strategy would look like that would allow for continuous deployment while minimizing downtime and bugs that negatively impacted the experience for players. This should include recommendations from both a technical and a process perspective.
 
 ## Deliverable
 
