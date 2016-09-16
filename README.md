@@ -25,7 +25,7 @@ To work on the project:
 
 Create three integration tests that work with the included Unity Test Tools Integration Test Runner. While Unity Test Tools does have a GUI Assertion Component, you will need to write C# behaviors to complete the assignment (either integrated with the Assertion Component, or standing on their own). 
 
-Please build tests that verify the following aspect of the game
+Please build tests that verify the following aspects of the game
 
 - A tank receives damage when hit by a shell
 - The frame-rate of the game does not drop below 60 FPS for more than 100 milliseconds at a time
@@ -35,7 +35,7 @@ Please build tests that verify the following aspect of the game
 
 Consider that this tank game is going to be hypothetically built out into a competitive online PC video game. There will be a large number of different tanks and weapons, and the game will receive continuous updates to improve balance and add new features. The team will have 20 people on the project in various roles. 
 
-Please write up a one page overview of what a cohesive testing strategy would look like that would allow for continuous deployment while minimizing downtime and bugs that negatively impacted the experience for players. This should include recommendations from both a technical and a process perspective.
+Please write up a one page overview of what a cohesive testing strategy would look like that would allow for continuous deployment while minimizing downtime and bugs that negatively impact the experience for players. This should include recommendations from both a technical and a process perspective.
 
 ## Deliverable
 
